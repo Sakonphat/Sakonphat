@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sakonphat
 - 👀 I’m interested in web developing and graphic programming
-- 🌱 I’m currently learning ReactJs and Go
+- 🌱 I’m currently learning Golang.
 - 📫 You can reach me on sakonphatb@gmail.com
 
 <!---
